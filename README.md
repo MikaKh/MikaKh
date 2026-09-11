@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mika 👋
 
-<!--
-**MikaKh/MikaKh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 Product Analyst with 5+ years in UX & Product Strategy
+Bridging user-centric design thinking with quantitative data analysis to drive product decisions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech & Analytical Stack
+- **Data Analysis & Querying:** SQL (PostgreSQL, Window Functions, CTEs), Python (pandas, NumPy)
+- **Product Analytics:** Cohort & Retention Analysis, Funnel Optimization, Unit Economics, A/B Testing
+- **UX & Data Storytelling:** Quantitative UX Research, User Journey Mapping, Dashboarding
+
+---
+
+### 📌 Portfolio Projects
+*Active daily commits: building production-ready SQL & Python analytical pipelines.*
+
+---
+
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/mika-khassenova) | [Email](mailto:makpal.khassenova.mk@gmail.com)
